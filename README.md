@@ -1,4 +1,4 @@
-# Expense Tracker
+# Expenses Tracker
 
 ## Demo
 
@@ -17,3 +17,4 @@ An expense tracking application built in React using `useState` hook.
 5. Events
 6. Controlled vs. Uncontrolled Components (e.g. `ExpenseFilter` is controlled)
 7. Rendering Lists and Conditional Content
+   and more...
