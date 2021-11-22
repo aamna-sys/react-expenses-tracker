@@ -35,6 +35,12 @@ function App() {
 
   return (
     <div>
+      <a
+        style={{ textAlign: "center", display: "block", color: "white" }}
+        href="https://github.com/aamna-sys/react-expenses-tracker"
+      >
+        Code
+      </a>
       <NewExpense onAddExpense={addExpenseHandler} />
       <Expenses items={expenses} />
     </div>
