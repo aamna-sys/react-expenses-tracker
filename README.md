@@ -2,7 +2,7 @@
 
 ## Demo
 
-This project is live at https://aamna-sys.github.io/react-expense-tracker.
+This project is live at [aamna-sys.github.io/react-expense-tracker](http://aamna-sys.github.io/react-expense-tracker).
 
 ## About the Project
 
