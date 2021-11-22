@@ -6,7 +6,7 @@ This project is live at https://aamna-sys.github.io/react-expense-tracker.
 
 ## About the Project
 
-An expense tracking application built in React using `useState` Hook
+An expense tracking application built in React using `useState` hook.
 
 ## Concepts Learned:
 
