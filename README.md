@@ -16,5 +16,7 @@ An expense tracking application built in React using `useState` hook.
 4. State
 5. Events
 6. Controlled vs. Uncontrolled Components (e.g. `ExpenseFilter` is controlled)
-7. Rendering Lists and Conditional Content
+7. Stateless vs. Stateful Components
+8. Rendering Lists and Conditional Content
+
    and more...
